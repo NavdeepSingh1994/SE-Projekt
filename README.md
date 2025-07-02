@@ -39,4 +39,4 @@ während meiner Senior Incident Manager Position, ich denke diese Position erlau
   Kampfsport:<br/>
   Ab heute 19 Uhr: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
   3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
-  Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern und in Projekten tieftechnische Inhalte verstehen
+  Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern damit tieftechnische Wissen in Projekten aufgebaut wird.
