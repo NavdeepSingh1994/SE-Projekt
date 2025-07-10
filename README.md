@@ -18,7 +18,7 @@
   Rolle:
   Projektleitung – inklusive Schulung, Koordination, Wissenstransfer
 
-# Warum Projektmanager:in im Bereich von IT und Softwareentwicklung?<br/>
+# Warum im Bewerbungsprozess?<br/>
 
 Ich habe beim 1st Level angefangen und arbeite aktuell im 3rd Level Bereich, dazu habe ich Major Incidents behandelt<br/>
 während meiner Senior Incident Manager Position, ich denke diese Position erlaubt mir etwas zu bewegen wenn es Schwachstellen im Prozess gibt.
