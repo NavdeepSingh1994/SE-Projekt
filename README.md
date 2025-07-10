@@ -5,7 +5,7 @@
 
 # Geplante Zertifizierung<br/>
   PMA Level D (Projektmanagement Austria): Prüfung am 17.06.2025 - done - Warte auf das Egebnis<br/>
-  Scrum Master PSM I: Prüfung am 10.07.2025<br/>
+  Scrum Master PSM I: Prüfung am 11.08.2025<br/>
   Ing.-Titel: Antragstellung durch, warte auf einen Termin<br/>
   
 # Projekterfahrung als Projektverantwortlicher / Consultant<br/>
