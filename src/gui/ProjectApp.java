@@ -8,9 +8,9 @@ import javafx.stage.Stage;
 public class ProjectApp extends Application {
     @Override
     public void start(Stage stage) throws Exception {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("ProjectView.xml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("ProjectView.fxml"));
         Scene scene = new Scene(loader.load());
-        stage.setTitle("Projektmanager");
+        stage.setTitle("Hotelprojekt-Manager");
         stage.setScene(scene);
         stage.show();
     }
