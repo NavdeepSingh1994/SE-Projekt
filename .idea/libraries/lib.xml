@@ -4,7 +4,6 @@
       <root url="file://D:/Downloads/javafx-sdk-24.0.1/lib" />
       <root url="jar://D:/Downloads/jakarta.mail-2.0.1.jar!/" />
       <root url="jar://D:/Downloads/jakarta.activation-2.0.1.jar!/" />
-      <!-- Dummy entry for triggering a commit -->
     </CLASSES>
     <JAVADOC />
     <SOURCES />
