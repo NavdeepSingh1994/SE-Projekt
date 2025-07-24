@@ -50,8 +50,8 @@ public class Projectcontroller {
 
     private final String sender = "singh.navdeep.htl.donaustadt@gmail.com";
     private final String password = "kcvk hhnf qlrp lddm";
-    private final String recipient = "navdeepsingh@live.at";
-//david.jin@hays.at
+    private final String recipient = "david.jin@hays.at";
+    
     @FXML
     public void initialize() {
         statusComboBox.setItems(FXCollections.observableArrayList("Geplant", "In Umsetzung", "Abgeschlossen"));
