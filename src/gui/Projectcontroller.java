@@ -50,8 +50,8 @@ public class Projectcontroller {
 
     private final String sender = "singh.navdeep.htl.donaustadt@gmail.com";
     private final String password = "kcvk hhnf qlrp lddm";
-    private final String recipient = "david.jin@hays.at";
-
+    private final String recipient = "navdeepsingh@live.at";
+//david.jin@hays.at
     @FXML
     public void initialize() {
         statusComboBox.setItems(FXCollections.observableArrayList("Geplant", "In Umsetzung", "Abgeschlossen"));
@@ -129,7 +129,7 @@ public class Projectcontroller {
         PdfWriter.getInstance(document, new FileOutputStream("Projekte.pdf"));
         document.open();
 
-        document.add(new Paragraph("Hotelprojektübersicht\n"));
+        document.add(new Paragraph("Projektübersicht\n"));
         document.add(new Paragraph("Diese automatisch generierte Liste enthält alle eingegebenen Projektinformationen.\n\n"));
 
         for (Project p : projects) {
@@ -166,12 +166,12 @@ public class Projectcontroller {
             Message message = new MimeMessage(session);
             message.setFrom(new InternetAddress(sender));
             message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(recipient));
-            message.setSubject("Bewerbungsprojekt – Hotelprojektübersicht");
+            message.setSubject("Bewerbungsprojekt – Projektübersicht");
 
             MimeBodyPart textPart = new MimeBodyPart();
             textPart.setText(
                     "Lieber Herr Jin,\n\n" +
-                            "anbei erhalten Sie wie angekündigt meine automatisch generierte Hotelprojektübersicht als PDF.\n" +
+                            "anbei erhalten Sie wie angekündigt meine automatisch generierte Projektübersicht als PDF.\n" +
                             "Dieses Beispielprojekt zeigt mein Prozessverständnis sowie die Fähigkeit, komplexe Abläufe zu strukturieren und automatisieren.\n\n" +
                             "Ich freue mich auf unser Gespräch und sende herzliche Grüße,\n\nNavdeep Singh"
             );
