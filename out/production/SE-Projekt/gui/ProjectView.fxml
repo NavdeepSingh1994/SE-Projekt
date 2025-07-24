@@ -13,7 +13,7 @@
         <Insets top="20" right="20" bottom="20" left="20"/>
     </padding>
 
-    <Label text="Hotelprojekt-Manager – Bewerbungsdemo" style="-fx-font-size: 20px; -fx-font-weight: bold;"/>
+    <Label text="IT Projekt Manager – Bewerbungsdemo" style="-fx-font-size: 20px; -fx-font-weight: bold;"/>
 
     <!-- Erste Zeile -->
     <HBox spacing="10">
@@ -31,7 +31,7 @@
 
     <!-- Dritte Zeile -->
     <HBox spacing="10">
-        <TextField fx:id="departmentField" promptText="Bereich (z. B. IT, Wellness, Front Desk)" />
+        <TextField fx:id="departmentField" promptText="Bereich (z. B. Applikationsfehler, Ausfall Betrieb, Kritischer Fehler)" />
         <TextField fx:id="ownerField" promptText="Verantwortlich (z. B. Max Mustermann)" />
         <Button text="Projekt hinzufügen" onAction="#addProject" />
     </HBox>
@@ -51,5 +51,5 @@
     </TableView>
 
     <!-- Export-Button -->
-    <Button text="Hotelprojektübersicht exportieren &amp; versenden" onAction="#handleExport"/>
+    <Button text="Projektübersicht exportieren &amp; versenden" onAction="#handleExport"/>
 </VBox>

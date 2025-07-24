@@ -50,8 +50,8 @@ public class Projectcontroller {
 
     private final String sender = "singh.navdeep.htl.donaustadt@gmail.com";
     private final String password = "kcvk hhnf qlrp lddm";
-    private final String recipient = "navdeepsingh@live.at";
-    //s.schiester@at-visions.com
+    private final String recipient = "david.jin@hays.at";
+
     @FXML
     public void initialize() {
         statusComboBox.setItems(FXCollections.observableArrayList("Geplant", "In Umsetzung", "Abgeschlossen"));
@@ -170,7 +170,7 @@ public class Projectcontroller {
 
             MimeBodyPart textPart = new MimeBodyPart();
             textPart.setText(
-                    "Sehr geehrte Frau Schiester,\n\n" +
+                    "Lieber Herr Jin,\n\n" +
                             "anbei erhalten Sie wie angekündigt meine automatisch generierte Hotelprojektübersicht als PDF.\n" +
                             "Dieses Beispielprojekt zeigt mein Prozessverständnis sowie die Fähigkeit, komplexe Abläufe zu strukturieren und automatisieren.\n\n" +
                             "Ich freue mich auf unser Gespräch und sende herzliche Grüße,\n\nNavdeep Singh"
