@@ -4,9 +4,9 @@
   Spezialisierung: Künstliche Intelligenz<br/>
 
 # Geplante Zertifizierung<br/>
-  PMA Level D (Projektmanagement Austria): Prüfung am 17.06.2025 - done - Warte auf das Egebnis<br/>
-  Scrum Master PSM I: Prüfung am 11.08.2025<br/>
-  Ing.-Titel: Antragstellung durch, warte auf einen Termin<br/>
+  PMA Level D (Projektmanagement Austria): Prüfung Ende Oktober<br/>
+  Scrum Master PSM I: Prüfung Ende Oktober<br/>
+  Ing.-Titel: Antragstellung durch, 22.08.25 Termin<br/>
   
 # Projekterfahrung als Projektverantwortlicher / Consultant<br/>
   Projektzeitraum: 01.03.2020 – 30.06.2020<br/>
@@ -21,7 +21,7 @@
 # Warum im Bewerbungsprozess?<br/>
 
 Ich habe beim 1st Level angefangen und arbeite aktuell im 3rd Level Bereich, dazu habe ich Major Incidents behandelt<br/>
-während meiner Senior Incident Manager Position, ich denke diese Position erlaubt mir etwas zu bewegen wenn es Schwachstellen im Prozess gibt.
+während meiner Senior Incident Manager Position, ich möchte eine Position die es mir erlaubt Schwachstellen im Prozess zu finden und Probleme zu lösen.
 
 # Sprachen<br/>
   Deutsch & Englisch:<br/>
@@ -39,4 +39,4 @@ während meiner Senior Incident Manager Position, ich denke diese Position erlau
   Kampfsport:<br/>
   Ab heute 19 Uhr: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
   3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
-  Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern damit tieftechnische Wissen in Projekten aufgebaut wird.
+  Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern damit tieftechnische Wissen in Projekten aufgebaut wird und ich meine Programmierkenntnisse erweitern kann.
