@@ -37,6 +37,6 @@ während meiner Senior Incident Manager Position, ich möchte eine Position die 
   Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
   Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
   Kampfsport:<br/>
-  Ab heute 19 Uhr: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
+  Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
   3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
   Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern damit tieftechnische Wissen in Projekten aufgebaut wird und ich meine Programmierkenntnisse erweitern kann.
