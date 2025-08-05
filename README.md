@@ -101,6 +101,3 @@ E-Mail: navdeepsingh@live.at
 Ort: Wien  
 LinkedIn: [linkedin.com/in/navdeep-singh-9a6248159](https://www.linkedin.com/in/navdeep-singh-9a6248159)
 
----
-
-> Hinweis: Ein ergänzendes technisches Projekt, das die Anforderungen der Position bei PRODYNA adressiert, wird aktuell umgesetzt und hier veröffentlicht.
