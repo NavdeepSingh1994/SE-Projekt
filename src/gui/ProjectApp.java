@@ -10,7 +10,7 @@ public class ProjectApp extends Application {
     public void start(Stage stage) throws Exception {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("ProjectView.fxml"));
         Scene scene = new Scene(loader.load());
-        stage.setTitle("Hotelprojekt-Manager");
+        stage.setTitle("Projekt-Manager");
         stage.setScene(scene);
         stage.show();
     }
