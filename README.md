@@ -47,7 +47,7 @@ Diese nachhaltige Projektstruktur ist heute noch im Einsatz.
 |--------|--------------|
 | [SmartFit – AI Chatbot](https://github.com/NavdeepSingh1994/smartfit-chatbot) | Coaching-App mit BMI-, BMR-, TDEE-Berechnung, KI-Empfehlungen über Mistral-7B & GPT-4 |
 | [AGB-KI](https://github.com/NavdeepSingh1994/AGB-KI) | Klassifikation von AGBs mittels DistilBERT zur Automatisierung juristischer Einschätzungen |
-| [flightops-incident-dashboard](https://github.com/NavdeepSingh1994/IKF) | Incident-Koordinations-Dashboard (Java & SQL) zur Visualisierung und Risikobewertung |
+| [flightops-incident-dashboard](https://github.com/NavdeepSingh1994/IKF) | Incident-Koordinations-Dashboard (Python + GPT) zur Visualisierung und Risikobewertung |
 
 ---
 
