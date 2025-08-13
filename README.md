@@ -1,5 +1,4 @@
 # Bewerbungsprofil – Navdeep Singh  
-## Bewerbung auf die Position „IT-Projektmanager“ bei PRODYNA
 
 Dieses Repository begleitet meine Bewerbung bei PRODYNA und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
 Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Projektverantwortung mit – ideal für komplexe und interdisziplinäre IT-Projekte im hybriden Setup.
@@ -53,6 +52,10 @@ Diese nachhaltige Projektstruktur ist heute noch im Einsatz.
 
 ## Berufliche Stationen (Auszug)
 
+**Senior Cloud Operations Engineer**, Allianz Technology GmbH  
+*04/2024 – heute*  
+Leitung von Stakeholder Meetings, SCRUM Teamübergreifende Tätigkeiten
+
 **Cloud Operations Engineer**, Allianz Technology GmbH  
 *04/2024 – heute*  
 CI/CD, Kubernetes, Java-Tools, SCRUM-Teamarbeit, internationale Projektumgebung
@@ -73,7 +76,7 @@ Verantwortlich für Major Incidents, RCA, SLA-Monitoring, internationale Eskalat
 - **HTL Donaustadt** – Informationstechnologie / Netzwerktechnik  
 - **Geplante Zertifizierungen:**
   - PMA Level D (Prüfung: 02.09.2025)
-  - PSM I (Scrum Master, Prüfung: 30.09.2025)
+  - PSM I (Scrum Master, Prüfung: 26.09.2025)
   - Ingenieur-Titel (Fachgespräch: 22.08.2025)
 
 ---
