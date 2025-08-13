@@ -89,6 +89,19 @@ Verantwortlich für Major Incidents, RCA, SLA-Monitoring, internationale Eskalat
 
 ---
 
+# Persönliche Weiterentwicklung<br/>
+
+  Master in AI ab 2028 auf der FH Technikum Wien, Donnerstag und Freitag am Abend vor Ort, Uhrzeit: 18:00 - 21:00<br/>
+  PMA Level C Zertifikat ab 2026<br/>
+
+# Private Interessen<br/>
+  Sprachlich:<br/>
+  Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
+  Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
+  Kampfsport:<br/>
+  Seit Juli 2025: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5, Prüfung Ende September<br/>
+
+
 ## Warum im Bewerbungsprozess?
 
 Durch meine bisherigen Projekte habe ich mehrfach bewiesen, dass ich IT-Projekte **vom ersten Kundenkontakt bis zum erfolgreichen Go-Live** begleiten und steuern kann – auch in herausfordernden, internationalen Konstellationen. Meine Arbeitsweise ist strukturiert, qualitätsbewusst und lösungsorientiert – mit starkem Fokus auf zwischenmenschliche Kommunikation im Team und mit Kunden.
