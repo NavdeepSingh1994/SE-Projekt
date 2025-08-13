@@ -1,6 +1,6 @@
 # Bewerbungsprofil – Navdeep Singh  
 
-Dieses Repository begleitet meine Bewerbung bei PRODYNA und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
+Dieses Repository begleitet meine Bewerbung bei TNT Personal und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
 Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Projektverantwortung mit – ideal für komplexe und interdisziplinäre IT-Projekte im hybriden Setup.
 
 ---
