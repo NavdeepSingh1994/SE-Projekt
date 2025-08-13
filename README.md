@@ -89,9 +89,7 @@ Verantwortlich für Major Incidents, RCA, SLA-Monitoring, internationale Eskalat
 
 ---
 
-## Warum PRODYNA?
-
-Ich suche ein Umfeld, in dem Eigenverantwortung, Teamgeist und technologische Weiterentwicklung gefördert werden. Die Position bei PRODYNA bietet mir die ideale Plattform, meine gesammelten Erfahrungen in einem agilen, innovationsgetriebenen Umfeld einzusetzen und weiter auszubauen – sowohl methodisch als auch technisch.
+## Warum im Bewerbungsprozess?
 
 Durch meine bisherigen Projekte habe ich mehrfach bewiesen, dass ich IT-Projekte **vom ersten Kundenkontakt bis zum erfolgreichen Go-Live** begleiten und steuern kann – auch in herausfordernden, internationalen Konstellationen. Meine Arbeitsweise ist strukturiert, qualitätsbewusst und lösungsorientiert – mit starkem Fokus auf zwischenmenschliche Kommunikation im Team und mit Kunden.
 
