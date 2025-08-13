@@ -1,42 +1,106 @@
-# Abschluss Bachelorstudium<br/>
-  Offene Bachelorprüfung: 29.09 - 04.10.25<br/>
-  Abschluss: B.Sc. in Computer Science and Digital Communication<br/>
-  Spezialisierung: Künstliche Intelligenz<br/>
+# Bewerbungsprofil – Navdeep Singh  
 
-# Geplante Zertifizierung<br/>
-  PMA Level D (Projektmanagement Austria): Prüfung Ende Oktober<br/>
-  Scrum Master PSM I: Prüfung Ende Oktober<br/>
-  Ing.-Titel: Antragstellung durch, 22.08.25 Termin<br/>
-  
-# Projekterfahrung als Projektverantwortlicher / Consultant<br/>
-  Projektzeitraum: 01.03.2020 – 30.06.2020<br/>
-  Aufgabe:<br/>
-  Training von 3 indischen Kollegen via Webex auf der SaaS-Plattform „Allianz Business System (ABS)<br/>
-    → Fokus: Incident Management<br/>
-  Erfolg:<br/>
-  Das Team besteht bis heute und wurde als Incident-Team etabliert
-  Rolle:
-  Projektleitung – inklusive Schulung, Koordination, Wissenstransfer
+Dieses Repository begleitet meine Bewerbung bei PRODYNA und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
+Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Projektverantwortung mit – ideal für komplexe und interdisziplinäre IT-Projekte im hybriden Setup.
 
-# Warum im Bewerbungsprozess?<br/>
+---
 
-Ich habe beim 1st Level angefangen und arbeite aktuell im 3rd Level Bereich, dazu habe ich Major Incidents behandelt<br/>
-während meiner Senior Incident Manager Position, ich möchte eine Position die es mir erlaubt Schwachstellen im Prozess zu finden und Probleme zu lösen.
+## Fachliche Schwerpunkte
 
-# Sprachen<br/>
-  Deutsch & Englisch:<br/>
-  Beide auf C1-Niveau (Nachweis: Berlitz Sprachinstitut, 2018, Aufstufung von B2 auf C1)<br/>
-  
-# Persönliche Weiterentwicklung<br/>
+**Projektmanagement & agile Methoden**
+- Fundierte Kenntnisse in klassischen (PMI/IPMA-konform) und agilen Vorgehensmodellen (Scrum, Kanban, SAFE)
+- Langjährige Erfahrung in der Koordination technischer Teams in internationalen Projekten
+- Aktive Teilnahme und Leitung von Scrum-Zeremonien (Dailys, Reviews, Retros, Refinements)
+- Risikoabschätzung und transparente Kommunikation mit Stakeholdern
 
-  Master in AI ab 2028 auf der FH Technikum Wien, Donnerstag und Freitag am Abend vor Ort<br/>
-  PMA Level C Zertifikat ab 2026<br/>
-  
-# Private Interessen<br/>
-  Sprachlich:<br/>
-  Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
-  Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
-  Kampfsport:<br/>
-  Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
-  3x die Woche Kraftsport und jeden Tag 10000 Schritte<br/>
-  Autodiktisches Lernen um mein Skillset in Python und Java zu erweitern damit tieftechnische Wissen in Projekten aufgebaut wird und ich meine Programmierkenntnisse erweitern kann.
+**Anforderungsmanagement**
+- Aufnahme, Strukturierung und Priorisierung von Business- und Systemanforderungen
+- Erstellung von Backlogs, Ticketübergabeplänen, Prozessmodellen und Übergabedokumentationen
+- Vermittlerrolle zwischen Fachbereichen und Entwicklungsteams
+
+**Technische Kompetenz**
+- Java, .NET, C++, SQL, Python (praktisch angewendet in internen Tools und GitHub-Projekten)
+- CI/CD (Jenkins, GitHub Actions), Kubernetes (EKS), ArgoCD
+- ServiceNow, Jira, Confluence, Remedy, ABS (Allianz Business System)
+
+---
+
+## Projekthighlight: „ABS Sri Lanka Launch“
+
+**Zeitraum:** März – Juni 2020  
+**Rolle:** Projektverantwortlicher (faktisch Projektleiter)  
+**Setup:** Remote-Projekt mit Wien, Indien und Sri Lanka  
+**Beschreibung:**
+- Aufbau eines dedizierten 2nd-Level-Teams in Indien zur Unterstützung von Allianz Sri Lanka
+- Aufnahme und Dokumentation aller Anforderungen in Zusammenarbeit mit Stakeholdern in Wien und Indien
+- Remote-Coaching, Wissensvermittlung, Prozessübergabe, strukturierter Operational Go-Live
+- Kombination aus klassischer PM-Struktur (Dokumentation, Reporting) und agiler Umsetzung (SCRUM)
+
+Diese nachhaltige Projektstruktur ist heute noch im Einsatz.
+
+---
+
+## Projekterfahrung (Auszug)
+
+| Projekt | Beschreibung |
+|--------|--------------|
+| [SmartFit – AI Chatbot](https://github.com/NavdeepSingh1994/smartfit-chatbot) | Coaching-App mit BMI-, BMR-, TDEE-Berechnung, KI-Empfehlungen über Mistral-7B & GPT-4 |
+| [AGB-KI](https://github.com/NavdeepSingh1994/AGB-KI) | Klassifikation von AGBs mittels DistilBERT zur Automatisierung juristischer Einschätzungen |
+| [flightops-incident-dashboard](https://github.com/NavdeepSingh1994/IKF) | Incident-Koordinations-Dashboard (Python + GPT) zur Visualisierung und Risikobewertung |
+
+---
+
+## Berufliche Stationen (Auszug)
+
+**Senior Cloud Operations Engineer**, Allianz Technology GmbH  
+*04/2024 – heute*  
+Leitung von Stakeholder Meetings, SCRUM Teamübergreifende Tätigkeiten
+
+**Cloud Operations Engineer**, Allianz Technology GmbH  
+*04/2024 – heute*  
+CI/CD, Kubernetes, Java-Tools, SCRUM-Teamarbeit, internationale Projektumgebung
+
+**Senior Incident Manager**, Allianz Technology GmbH  
+*05/2021 – 12/2023*  
+Verantwortlich für Major Incidents, RCA, SLA-Monitoring, internationale Eskalationskoordination
+
+**IT User Support**, Allianz Technology GmbH  
+*07/2017 – 04/2021*  
+2nd-Level-Support, Prozessoptimierung, Schnittstelle zwischen Usern, Entwicklung und Betrieb
+
+---
+
+## Ausbildung & Zertifizierungen
+
+- **Bachelor of Science**, Computer Science & Digital Communication – FH Campus Wien *(Abschluss Okt. 2025)*  
+- **HTL Donaustadt** – Informationstechnologie / Netzwerktechnik  
+- **Geplante Zertifizierungen:**
+  - PMA Level D (Prüfung: 02.09.2025)
+  - PSM I (Scrum Master, Prüfung: 26.09.2025)
+  - Ingenieur-Titel (Fachgespräch: 22.08.2025)
+
+---
+
+## Sprachkenntnisse
+
+- Deutsch: Muttersprache  
+- Englisch: C1 (Berlitz-Zertifikat, 2018)  
+- Weitere Sprachen: Hindi, Punjabi
+
+---
+
+## Warum PRODYNA?
+
+Ich suche ein Umfeld, in dem Eigenverantwortung, Teamgeist und technologische Weiterentwicklung gefördert werden. Die Position bei PRODYNA bietet mir die ideale Plattform, meine gesammelten Erfahrungen in einem agilen, innovationsgetriebenen Umfeld einzusetzen und weiter auszubauen – sowohl methodisch als auch technisch.
+
+Durch meine bisherigen Projekte habe ich mehrfach bewiesen, dass ich IT-Projekte **vom ersten Kundenkontakt bis zum erfolgreichen Go-Live** begleiten und steuern kann – auch in herausfordernden, internationalen Konstellationen. Meine Arbeitsweise ist strukturiert, qualitätsbewusst und lösungsorientiert – mit starkem Fokus auf zwischenmenschliche Kommunikation im Team und mit Kunden.
+
+---
+
+## Kontakt
+
+**Navdeep Singh**  
+E-Mail: navdeepsingh@live.at  
+Ort: Wien  
+LinkedIn: [linkedin.com/in/navdeep-singh-9a6248159](https://www.linkedin.com/in/navdeep-singh-9a6248159)
+
