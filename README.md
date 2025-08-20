@@ -1,6 +1,6 @@
 # Bewerbungsprofil – Navdeep Singh  
 
-Dieses Repository begleitet meine Bewerbung bei TNT Personal und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
+Dieses Repository begleitet meine Bewerbung bei ACP Group und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
 Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Projektverantwortung mit – ideal für komplexe und interdisziplinäre IT-Projekte im hybriden Setup.
 
 ---
@@ -19,8 +19,8 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Vermittlerrolle zwischen Fachbereichen und Entwicklungsteams
 
 **Technische Kompetenz**
-- Java, .NET, C++, SQL, Python (praktisch angewendet in internen Tools und GitHub-Projekten)
-- CI/CD (Jenkins, GitHub Actions), Kubernetes (EKS), ArgoCD
+- Java, SQL, Python (praktisch angewendet in internen Tools und GitHub-Projekten)
+- CI/CD (Jenkins), ArgoCD
 - ServiceNow, Jira, Confluence, Remedy, ABS (Allianz Business System)
 
 ---
@@ -53,11 +53,11 @@ Diese nachhaltige Projektstruktur ist heute noch im Einsatz.
 ## Berufliche Stationen (Auszug)
 
 **Senior Cloud Operations Engineer**, Allianz Technology GmbH  
-*04/2024 – heute*  
+*07/2025 – 08/2025*  
 Leitung von Stakeholder Meetings, SCRUM Teamübergreifende Tätigkeiten
 
 **Cloud Operations Engineer**, Allianz Technology GmbH  
-*04/2024 – heute*  
+*04/2024 – 06/2025*  
 CI/CD, Kubernetes, Java-Tools, SCRUM-Teamarbeit, internationale Projektumgebung
 
 **Senior Incident Manager**, Allianz Technology GmbH  
