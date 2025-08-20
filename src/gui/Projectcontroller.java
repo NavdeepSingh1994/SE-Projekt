@@ -50,7 +50,7 @@ public class Projectcontroller {
 
     private final String sender = "singh.navdeep.htl.donaustadt@gmail.com";
     private final String password = "kcvk hhnf qlrp lddm";
-    private final String recipient = "miguel.tejeda@tntpersonal.at";
+    private final String recipient = "Johannes.Payer@acp.at";
 
     @FXML
     public void initialize() {
