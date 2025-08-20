@@ -1,6 +1,6 @@
 # Bewerbungsprofil – Navdeep Singh  
 
-Dieses Repository begleitet meine Bewerbung bei PRODYNA und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
+Dieses Repository begleitet meine Bewerbung bei ACP Group und dient zur Darstellung meiner Fähigkeiten, Projekterfahrung und Methodenkompetenz im Umfeld von IT-Projektmanagement, agilen Methoden und Anforderungsmanagement.  
 Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativen Projektverantwortung mit – ideal für komplexe und interdisziplinäre IT-Projekte im hybriden Setup.
 
 ---
@@ -19,8 +19,8 @@ Ich bringe sowohl technische Tiefe als auch umfassende Erfahrung in der operativ
 - Vermittlerrolle zwischen Fachbereichen und Entwicklungsteams
 
 **Technische Kompetenz**
-- Java, .NET, C++, SQL, Python (praktisch angewendet in internen Tools und GitHub-Projekten)
-- CI/CD (Jenkins, GitHub Actions), Kubernetes (EKS), ArgoCD
+- Java, SQL, Python (praktisch angewendet in internen Tools und GitHub-Projekten)
+- CI/CD (Jenkins), ArgoCD
 - ServiceNow, Jira, Confluence, Remedy, ABS (Allianz Business System)
 
 ---
@@ -53,11 +53,11 @@ Diese nachhaltige Projektstruktur ist heute noch im Einsatz.
 ## Berufliche Stationen (Auszug)
 
 **Senior Cloud Operations Engineer**, Allianz Technology GmbH  
-*04/2024 – heute*  
+*07/2025 – 08/2025*  
 Leitung von Stakeholder Meetings, SCRUM Teamübergreifende Tätigkeiten
 
 **Cloud Operations Engineer**, Allianz Technology GmbH  
-*04/2024 – heute*  
+*04/2024 – 06/2025*  
 CI/CD, Kubernetes, Java-Tools, SCRUM-Teamarbeit, internationale Projektumgebung
 
 **Senior Incident Manager**, Allianz Technology GmbH  
@@ -89,9 +89,20 @@ Verantwortlich für Major Incidents, RCA, SLA-Monitoring, internationale Eskalat
 
 ---
 
-## Warum PRODYNA?
+# Persönliche Weiterentwicklung<br/>
 
-Ich suche ein Umfeld, in dem Eigenverantwortung, Teamgeist und technologische Weiterentwicklung gefördert werden. Die Position bei PRODYNA bietet mir die ideale Plattform, meine gesammelten Erfahrungen in einem agilen, innovationsgetriebenen Umfeld einzusetzen und weiter auszubauen – sowohl methodisch als auch technisch.
+  Master in AI ab 2028 auf der FH Technikum Wien, Donnerstag und Freitag am Abend vor Ort, Uhrzeit: 18:00 - 21:00<br/>
+  PMA Level C Zertifikat ab 2026<br/>
+
+# Private Interessen<br/>
+  Sprachlich:<br/>
+  Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
+  Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
+  Kampfsport:<br/>
+  Seit Juli 2025: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5, Prüfung Ende September<br/>
+
+
+## Warum im Bewerbungsprozess?
 
 Durch meine bisherigen Projekte habe ich mehrfach bewiesen, dass ich IT-Projekte **vom ersten Kundenkontakt bis zum erfolgreichen Go-Live** begleiten und steuern kann – auch in herausfordernden, internationalen Konstellationen. Meine Arbeitsweise ist strukturiert, qualitätsbewusst und lösungsorientiert – mit starkem Fokus auf zwischenmenschliche Kommunikation im Team und mit Kunden.
 
